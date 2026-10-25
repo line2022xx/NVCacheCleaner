@@ -2,6 +2,8 @@
 
 一个面向 Windows 的 NVIDIA 着色器缓存清理小工具：一键强制清空 `%LOCALAPPDATA%\NVIDIA` 下的全部缓存，清理完成后自动重启电脑。
 
+> 直接下载：[Releases](https://github.com/line2022xx/NVCacheCleaner/releases/latest) 中的 `NVCacheCleaner.exe`，双击即可运行。
+
 - 作者：**linexx**
 - 版本：1.0.0
 - 平台：Windows 10 / 11（需要管理员权限）
@@ -20,7 +22,7 @@
 
 ### 方式一：直接运行 exe（推荐）
 
-1. 下载 `NVCacheCleaner.exe`。
+1. 从 [Releases](https://github.com/line2022xx/NVCacheCleaner/releases/latest) 下载 `NVCacheCleaner.exe`。
 2. 双击运行，在 UAC 弹窗中允许管理员权限。
 3. 点击「一键清理缓存」，等待清理完成后系统将自动重启。
 
