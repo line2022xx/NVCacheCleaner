@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.manifest
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
